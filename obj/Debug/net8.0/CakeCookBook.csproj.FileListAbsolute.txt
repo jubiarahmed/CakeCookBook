@@ -1,0 +1,14 @@
+F:\Microsoft VS\CakeCookBook\bin\Debug\net8.0\CakeCookBook.exe
+F:\Microsoft VS\CakeCookBook\bin\Debug\net8.0\CakeCookBook.deps.json
+F:\Microsoft VS\CakeCookBook\bin\Debug\net8.0\CakeCookBook.runtimeconfig.json
+F:\Microsoft VS\CakeCookBook\bin\Debug\net8.0\CakeCookBook.dll
+F:\Microsoft VS\CakeCookBook\bin\Debug\net8.0\CakeCookBook.pdb
+F:\Microsoft VS\CakeCookBook\obj\Debug\net8.0\CakeCookBook.GeneratedMSBuildEditorConfig.editorconfig
+F:\Microsoft VS\CakeCookBook\obj\Debug\net8.0\CakeCookBook.AssemblyInfoInputs.cache
+F:\Microsoft VS\CakeCookBook\obj\Debug\net8.0\CakeCookBook.AssemblyInfo.cs
+F:\Microsoft VS\CakeCookBook\obj\Debug\net8.0\CakeCookBook.csproj.CoreCompileInputs.cache
+F:\Microsoft VS\CakeCookBook\obj\Debug\net8.0\CakeCookBook.dll
+F:\Microsoft VS\CakeCookBook\obj\Debug\net8.0\refint\CakeCookBook.dll
+F:\Microsoft VS\CakeCookBook\obj\Debug\net8.0\CakeCookBook.pdb
+F:\Microsoft VS\CakeCookBook\obj\Debug\net8.0\CakeCookBook.genruntimeconfig.cache
+F:\Microsoft VS\CakeCookBook\obj\Debug\net8.0\ref\CakeCookBook.dll
