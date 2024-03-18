@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CakeCookBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7db047896244d56cfa37d6ec3e28b585929b9265")]
 [assembly: System.Reflection.AssemblyProductAttribute("CakeCookBook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CakeCookBook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

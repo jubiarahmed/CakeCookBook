@@ -12,3 +12,4 @@ F:\Microsoft VS\CakeCookBook\obj\Debug\net8.0\refint\CakeCookBook.dll
 F:\Microsoft VS\CakeCookBook\obj\Debug\net8.0\CakeCookBook.pdb
 F:\Microsoft VS\CakeCookBook\obj\Debug\net8.0\CakeCookBook.genruntimeconfig.cache
 F:\Microsoft VS\CakeCookBook\obj\Debug\net8.0\ref\CakeCookBook.dll
+F:\Microsoft VS\CakeCookBook\obj\Debug\net8.0\CakeCookBook.sourcelink.json
